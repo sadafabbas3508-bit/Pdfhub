@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://timely-starship-d37bcd.netlify.app/sitemap.xml
